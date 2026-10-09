@@ -1,0 +1,40 @@
+# Mac Screen Audio Recorder — Source Use License v1.1
+# Mac Screen Audio Recorder ソース利用許諾 v1.1
+
+Copyright (c) 2026 msk. All rights reserved except as expressly permitted below.
+
+本利用許諾は、Mac Screen Audio Recorder のソースコード、そこからビルドしたアプリ、及びそれらの改変物（以下「本ソフトウェア」）に適用されます。名称・ロゴ・アプリアイコンの利用には別途 BRANDING.md の条件も適用されます。
+
+1. 無償での利用・改変
+   個人・法人を問わず、本ソフトウェアを無償で取得、閲覧、複製、ビルド、実行、改変できます。仕事・事業・営利活動のために本ソフトウェアを使用することも自由です。
+
+2. 無償配布・改変版の無償公開
+   本ソフトウェアの元の版及び改変版を、ソースコード形式又はビルド済みアプリとして、無償で公開・配布できます。再配布物には本著作権表示と本利用許諾を保持し、改変版では改変した旨を明示してください。名称・ロゴ・アプリアイコンの取扱いは BRANDING.md に従ってください。
+   本許諾による無償配布の許可は、配布先にも本許諾の条件が適用されることを前提とします。第三者に、本許諾が禁止する販売権限を付与することはできません。
+
+3. ソフトウェア自体の販売・有償提供の禁止
+   著作権者の事前の書面による許可なく、本ソフトウェア（元の版・改変版、ソースコード・ビルド済みアプリを含む）を販売・再販売したり、本ソフトウェアの取得や利用権の対価として料金を請求したり、有償ダウンロード、有償ライセンス、有償サブスクリプションとして提供したりすることを禁止します。有料ソフトウェア・有料バンドルの構成要素として、本ソフトウェア自体を有償提供することも禁止します。
+   この禁止は、著作権者自身が本ソフトウェアを販売又は別途許諾する権利を制限しません。
+
+4. 録画・録音その他の成果物の利用
+   本ソフトウェアを使用して作成した動画、音声その他の成果物の公開・配信・販売・収益化は自由です。仕事としての録画・録音、動画制作、配信なども本利用許諾では禁止しません。成果物に関して第三者の著作権その他の権利が適用される場合は、それぞれの権利を遵守してください。
+
+5. ブランドの取扱い
+   本利用許諾によって msk の名称・ロゴ・アプリアイコンを他者のブランドとして使用する権利は付与されません。元の版の無償配布や改変版の公開に際しての具体的条件は BRANDING.md に定めます。原著作権者や元の製品名を事実として紹介・表示することは可能です。
+
+6. 無保証・サポート義務なし
+   本ソフトウェアは「現状有姿」で提供します。適用法令で認められる限度において、明示・黙示の保証はなく、著作権者は個別サポート、不具合修正、継続的な更新を約束しません。適用法令で認められる限度において、本ソフトウェアの利用に起因する損害の責任を負いません。
+
+7. 条件違反・別途の許可
+   本許諾の条件に違反した場合、違反した者に与えられていた本許諾による権利は終了します。本許諾で禁止される有償提供等については、著作権者から別途書面で許可を得ることができます。
+
+---
+
+English reference summary (the Japanese text above is authoritative):
+- Free use, modification, building, and free-of-charge redistribution of source or compiled versions are permitted, including for professional and commercial workflows.
+- Selling the software itself, its source, its binaries, or modified versions, charging for access or a software license, or distributing it as part of a paid software bundle is prohibited without prior written permission from the copyright holder.
+- Recordings, audio, videos and other outputs made USING the application may be distributed, sold, and monetized, subject to rights unrelated to this software license.
+- Retain copyright and license notices and identify modifications. The original name and icon are subject to BRANDING.md.
+- No warranty, individual support commitment, or guarantee of updates is provided.
+
+This is a source-available license, NOT an OSI-approved open-source license.

@@ -1,0 +1,17 @@
+Mac Screen Audio Recorder v1.0.2
+Third-party / redistribution notes
+
+1. This source archive does not bundle third-party libraries, packages, fonts,
+   photographs, stock assets, or third-party application binaries.
+
+2. The application uses Apple system frameworks at build/runtime:
+   AppKit, ScreenCaptureKit, AVFoundation, CoreMedia, CoreVideo,
+   CoreGraphics, and AudioToolbox.
+   These frameworks are supplied by macOS/Xcode Command Line Tools and are not
+   redistributed in this archive.
+
+3. Resources/AppIcon-1024.png is the project-specific application icon and is
+   distributed with this project subject to BRANDING.md in addition to LICENSE.txt.
+
+4. No Apple certificate, provisioning profile, private key, Apple ID, email
+   address, Development Team identifier, or authentication token is included.
